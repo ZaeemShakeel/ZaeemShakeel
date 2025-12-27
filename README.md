@@ -1,7 +1,5 @@
-<img width="1804" height="926" alt="image" src="https://github.com/user-attachments/assets/a086e976-7296-480b-8ed6-7089856384bc" />
-
 # 💫 About Me:
-I am a passionate front-end developer 💻 with a talent for creating dynamic, responsive, and visually appealing web interfaces. My goal is to craft intuitive and engaging user experiences ✨ while leveraging cutting-edge front-end technologies 🚀 to deliver impactful solutions that drive business growth 📈.<br>
+I am a passionate front-end developer 💻 with a talent for creating dynamic, responsive, and visually appealing web interfaces. My goal is to craft intuitive and engaging user experiences ✨ while leveraging cutting-edge front-end technologies 🚀 to deliver impactful solutions that drive business growth 📈.<br> https://zaeemshakeel.vercel.app/
 
 
 ## 🌐 Socials:
