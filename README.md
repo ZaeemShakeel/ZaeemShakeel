@@ -34,7 +34,7 @@ My Portfolio:- https://zaeemshakeel.vercel.app/
 
 ## GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaeemshakeel&theme=null" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaeemshakeel&theme=merko" alt="GitHub Streak" />
 
 ## GitHub Activity Graph
 
