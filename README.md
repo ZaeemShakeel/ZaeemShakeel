@@ -1,7 +1,7 @@
 # Assalam-u-Alaikum 👋, I'm Zaeem Shakeel
 ### Frontend Focused MERN Stack Developer
 
-I am a passionate front-end developer 💻 with a talent for creating dynamic, responsive, and visually appealing web interfaces. My goal is to craft intuitive and engaging user experiences ✨ while leveraging cutting-edge front-end technologies 🚀 to deliver impactful solutions that drive business growth 📈.
+I create engaging and high-performance web applications with a strong emphasis on UI/UX. I enjoy crafting seamless user experiences while ensuring scalable backend integration using the MERN stack. Clean code, modern design, and impactful solutions are at the core of my work 💻✨.
 My Portfolio:- https://zaeemshakeel.vercel.app/
 
 ## Contact Me
@@ -28,6 +28,8 @@ My Portfolio:- https://zaeemshakeel.vercel.app/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="babel" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
 </p>
 
 ## GitHub Stats
@@ -37,4 +39,10 @@ My Portfolio:- https://zaeemshakeel.vercel.app/
 ## GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaeemshakeel&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ZaeemShakeel&icon=0&color=0)](https://visitcount.itsvg.in)
 
