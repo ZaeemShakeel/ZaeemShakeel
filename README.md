@@ -32,8 +32,6 @@ My Portfolio:- https://zaeemshakeel.vercel.app/
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaeemshakeel&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaeemshakeel&theme=null" alt="GitHub Streak" />
 
 ## GitHub Activity Graph
