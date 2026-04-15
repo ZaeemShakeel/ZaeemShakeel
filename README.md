@@ -20,11 +20,7 @@ I create engaging and high-performance web applications with a strong emphasis o
 
 ## 🛠️ Tech Stack  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,redux,firebase,vercel,netlify,git,github,linux,vscode,wordpress" />
-</p>
-
----
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,nodejs,express,mongodb,redux,firebase,vercel,netlify,git,github,linux,vscode,wordpress" />
 
 ## 📊 GitHub Stats  
 
