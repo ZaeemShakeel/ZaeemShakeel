@@ -1,4 +1,4 @@
-# 👋 Assalam-u-Alaikum, I'm Zaeem Shakeel  
+# 👋 Welcome! السَّلَامُ عَلَيْكُمْ, I'm Zaeem Shakeel
 ### 🚀 Frontend Focused MERN Stack Developer  
 I create engaging and high-performance web applications with a strong emphasis on UI/UX. I enjoy crafting seamless user experiences while ensuring scalable backend integration using the MERN stack. Clean code, modern design, and impactful solutions are at the core of my work 💻✨. My Portfolio:- https://zaeemshakeel.vercel.app/
 
